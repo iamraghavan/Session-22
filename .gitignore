@@ -39,3 +39,6 @@ Thumbs.db
 build/
 dist/
 out/
+
+# Local Netlify folder
+.netlify
